@@ -1,0 +1,9 @@
+@ARTICLE{JSAC17design,
+  author={X. {Ma} and F. {Yang} and S. {Liu} and J. {Song} and Z. {Han}},
+  journal={IEEE Journal on Selected Areas in Communications}, 
+  title={Design and Optimization on Training Sequence for mmWave Communications: A New Approach for Sparse Channel Estimation in Massive MIMO}, 
+  year={2017},
+  volume={35},
+  number={7},
+  pages={1486-1497},
+  doi={10.1109/JSAC.2017.2698978}}

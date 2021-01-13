@@ -1,0 +1,9 @@
+@ARTICLE{ding2016spectrally,
+  author={W. {Ding} and Y. {Lu} and F. {Yang} and W. {Dai} and P. {Li} and S. {Liu} and J. {Song}},
+  journal={IEEE Journal on Selected Areas in Communications}, 
+  title={Spectrally Efficient CSI Acquisition for Power Line Communications: A Bayesian Compressive Sensing Perspective}, 
+  year={2016},
+  volume={34},
+  number={7},
+  pages={2022-2032},
+  doi={10.1109/JSAC.2016.2566140}}

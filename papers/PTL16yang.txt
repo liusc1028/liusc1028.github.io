@@ -1,0 +1,9 @@
+@ARTICLE{yang2016novel,
+  author={F. {Yang} and J. {Gao} and S. {Liu}},
+  journal={IEEE Photonics Technology Letters}, 
+  title={Novel Visible Light Communication Approach Based on Hybrid OOK and ACO-OFDM}, 
+  year={2016},
+  volume={28},
+  number={14},
+  pages={1585-1588},
+  doi={10.1109/LPT.2016.2555620}}

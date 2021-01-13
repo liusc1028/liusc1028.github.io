@@ -1,0 +1,10 @@
+@article{an2019towards,
+  author    = {Zhecheng An and
+               Sicong Liu},
+  title     = {Towards Diverse Paraphrase Generation Using Multi-Class Wasserstein
+               {GAN}},
+  journal   = {CoRR},
+  volume    = {abs/1909.13827},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1909.13827},
+}

@@ -1,0 +1,9 @@
+@ARTICLE{liu2016two,
+  author={S. {Liu} and F. {Yang} and W. {Ding} and X. {Wang} and J. {Song}},
+  journal={IEEE Transactions on Vehicular Technology}, 
+  title={Two-Dimensional Structured-Compressed-Sensing-Based NBI Cancelation Exploiting Spatial and Temporal Correlations in MIMO Systems}, 
+  year={2016},
+  volume={65},
+  number={11},
+  pages={9020-9028},
+  doi={10.1109/TVT.2016.2515132}}

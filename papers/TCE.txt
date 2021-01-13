@@ -1,0 +1,9 @@
+@ARTICLE{liu2017struct,
+  author={S. {Liu} and F. {Yang} and W. {Ding} and J. {Song} and A. M. {Tonello}},
+  journal={IEEE Transactions on Consumer Electronics}, 
+  title={Structured compressed sensing based narrowband interference elimination for in-home power line communications}, 
+  year={2017},
+  volume={63},
+  number={1},
+  pages={10-18},
+  doi={10.1109/TCE.2017.014667}}

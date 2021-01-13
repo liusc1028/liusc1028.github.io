@@ -1,0 +1,9 @@
+@ARTICLE{ma2018sparse,
+  author={X. {Ma} and F. {Yang} and S. {Liu} and J. {Song} and Z. {Han}},
+  journal={IEEE Transactions on Vehicular Technology}, 
+  title={Sparse Channel Estimation for MIMO-OFDM Systems in High-Mobility Situations}, 
+  year={2018},
+  volume={67},
+  number={7},
+  pages={6113-6124},
+  doi={10.1109/TVT.2018.2811368}}

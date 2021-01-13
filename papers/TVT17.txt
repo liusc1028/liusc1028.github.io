@@ -1,0 +1,9 @@
+@ARTICLE{liu17structured,
+  author={S. {Liu} and F. {Yang} and X. {Wang} and J. {Song} and Z. {Han}},
+  journal={IEEE Transactions on Vehicular Technology}, 
+  title={Structured-Compressed-Sensing-Based Impulsive Noise Cancelation for MIMO Systems}, 
+  year={2017},
+  volume={66},
+  number={8},
+  pages={6921-6931},
+  doi={10.1109/TVT.2017.2657696}}

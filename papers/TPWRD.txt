@@ -1,0 +1,9 @@
+@ARTICLE{liu2016optimal,
+  author={S. {Liu} and F. {Yang} and J. {Song}},
+  journal={IEEE Transactions on Power Delivery}, 
+  title={An Optimal Interleaving Scheme With Maximum Time-Frequency Diversity for PLC Systems}, 
+  year={2016},
+  volume={31},
+  number={3},
+  pages={1007-1014},
+  doi={10.1109/TPWRD.2014.2365579}}

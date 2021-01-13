@@ -1,0 +1,9 @@
+@ARTICLE{wang2018generalized,
+  author={T. {Wang} and S. {Liu} and F. {Yang} and J. {Wang} and J. {Song} and Z. {Han}},
+  journal={IEEE Transactions on Broadcasting}, 
+  title={Generalized Spatial Modulation-Based Multi-User and Signal Detection Scheme for Terrestrial Return Channel With NOMA}, 
+  year={2018},
+  volume={64},
+  number={2},
+  pages={211-219},
+  doi={10.1109/TBC.2017.2755260}}

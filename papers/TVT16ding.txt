@@ -1,0 +1,9 @@
+@ARTICLE{ding2016nonorthogonal,
+  author={W. {Ding} and F. {Yang} and S. {Liu} and X. {Wang} and J. {Song}},
+  journal={IEEE Transactions on Vehicular Technology}, 
+  title={Nonorthogonal Time–Frequency Training-Sequence-Based CSI Acquisition for MIMO Systems}, 
+  year={2016},
+  volume={65},
+  number={7},
+  pages={5714-5719},
+  doi={10.1109/TVT.2015.2463716}}

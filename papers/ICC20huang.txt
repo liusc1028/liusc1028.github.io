@@ -1,0 +1,9 @@
+@INPROCEEDINGS{huang2020massive,
+  author={X. {Huang} and S. {Liu}},
+  booktitle={2020 IEEE International Conference on Communications Workshops (ICC Workshops)}, 
+  title={Massive MIMO Channel Estimation for Vehicular Communications: A Deep Learning Based Approach}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/ICCWorkshops49005.2020.9145126}}

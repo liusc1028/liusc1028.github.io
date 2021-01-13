@@ -1,0 +1,9 @@
+@ARTICLE{ma2017structured,
+  author={X. {Ma} and F. {Yang} and S. {Liu} and W. {Ding} and J. {Song}},
+  journal={IEEE Wireless Communications Letters}, 
+  title={Structured Compressive Sensing-Based Channel Estimation for Time Frequency Training OFDM Systems Over Doubly Selective Channel}, 
+  year={2017},
+  volume={6},
+  number={2},
+  pages={266-269},
+  doi={10.1109/LWC.2017.2669974}}

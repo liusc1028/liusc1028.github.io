@@ -1,4 +1,4 @@
-@ARTICLE{7968406,
+@ARTICLE{liu2017block,
   author={S. {Liu} and F. {Yang} and J. {Song} and Z. {Han}},
   journal={IEEE Transactions on Communications}, 
   title={Block Sparse Bayesian Learning-Based NB-IoT Interference Elimination in LTE-Advanced Systems}, 

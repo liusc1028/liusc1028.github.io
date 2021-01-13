@@ -1,0 +1,10 @@
+@article{liu2015narrowband,
+  title={Narrowband interference mitigation based on compressive sensing for OFDM systems},
+  author={Liu, Sicong and Yang, Fang and Zhang, Chao and Song, Jian},
+  journal={IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer Sciences},
+  volume={98},
+  number={3},
+  pages={870--873},
+  year={2015},
+  publisher={The Institute of Electronics, Information and Communication Engineers}
+}
