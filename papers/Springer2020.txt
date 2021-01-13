@@ -1,0 +1,6 @@
+@BOOK{liu2020research,
+  TITLE = {Research on the Key Technologies in Narrowband Interference and Impulsive Noise Mitigation and Cancellation},
+  AUTHOR = {Liu, Sicong},
+  YEAR = {2020},
+  PUBLISHER = {Springer},
+}
