@@ -1,0 +1,10 @@
+@article{xiao2020reinforcement,
+  title={Reinforcement learning based energy-efficient internet-of-things video transmission},
+  author={Xiao, Yilin and Niu, Guohang and Xiao, Liang and Ding, Yuzhen and Liu, Sicong and Fan, Yexian},
+  journal={Intelligent and Converged Networks},
+  volume={1},
+  number={3},
+  pages={258--270},
+  year={2020},
+  publisher={TUP}
+}
