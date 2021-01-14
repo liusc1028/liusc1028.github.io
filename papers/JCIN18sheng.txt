@@ -1,0 +1,9 @@
+@ARTICLE{sheng2018reinforcement
+  author={G. {Sheng} and M. {Min} and L. {Xiao} and S. {Liu}},
+  journal={Journal of Communications and Information Networks}, 
+  title={Reinforcement Learning-Based Control for Unmanned Aerial Vehicles}, 
+  year={2018},
+  volume={3},
+  number={3},
+  pages={39-48},
+  doi={10.1007/s41650-018-0029-y}}
