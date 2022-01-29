@@ -1,0 +1,1 @@
+@INPROCEEDINGS{9434905,  author={Wei, Tiankuo and Liu, Sicong},  booktitle={2021 15th International Symposium on Medical Information and Communication Technology (ISMICT)},   title={Sparse Learning Based Implantable Medical Device Transmission against Eavesdropping},   year={2021},  volume={},  number={},  pages={70-75},  doi={10.1109/ISMICT51748.2021.9434905}}
