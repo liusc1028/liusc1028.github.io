@@ -1,0 +1,1 @@
+@INPROCEEDINGS{9519876,  author={Gao, Longjie and Liu, Sicong},  booktitle={2021 OES China Ocean Acoustics (COA)},   title={Underwater Acoustic Channel Estimation Based on Sparsity-Aware Deep Neural Networks},   year={2021},  volume={},  number={},  pages={544-549},  doi={10.1109/COA50123.2021.9519876}}

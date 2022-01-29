@@ -1,0 +1,1 @@
+@ARTICLE{9459560,  author={Lu, Chengyue and Wang, Zihan and Ding, Wenbo and Li, Gang and Liu, Sicong and Cheng, Ling},  journal={China Communications},   title={MARVEL: Multi-agent reinforcement learning for VANET delay minimization},   year={2021},  volume={18},  number={6},  pages={1-11},  doi={10.23919/JCC.2021.06.001}}
