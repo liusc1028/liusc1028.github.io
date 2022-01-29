@@ -1,0 +1,9 @@
+@ARTICLE{9459572,
+  author={Liu, Sicong and Huang, Xiao},
+  journal={China Communications}, 
+  title={Sparsity-aware channel estimation for mmWave massive MIMO: A deep CNN-based approach}, 
+  year={2021},
+  volume={18},
+  number={6},
+  pages={162-171},
+  doi={10.23919/JCC.2021.06.013}}
