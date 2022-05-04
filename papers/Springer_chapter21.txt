@@ -1,0 +1,18 @@
+@Inbook{bookchapter21xiao,
+author="Xiao, Liang
+and Jiang, Donghua
+and Liu, Sicong",
+editor="Chen, Xiaofeng
+and Susilo, Willy
+and Bertino, Elisa",
+title="Reinforcement Learning Based Communication Security for Unmanned Aerial Vehicles",
+bookTitle="Cyber Security Meets Machine Learning",
+year="2021",
+publisher="Springer Singapore",
+address="Singapore",
+pages="57--83",
+abstract="With the rapid development of unmanned aerial vehicles (UAVs) in communications, networking, and sensing applications, UAVs have gained considerable research interest in the last decade. Although UAV applications have been widely applied in many different fields, especially the military surveillance and environment monitoring, UAV communication process is not sufficiently safe due to jamming attacks. By imposing jamming signals on the controller during the communication process of the drones, a jammer can interfere with the sensing data reception of the controller, exhaust the drone battery, or keep the drone from following the specified sensing mission waypoint.",
+isbn="978-981-33-6726-5",
+doi="10.1007/978-981-33-6726-5_3",
+url="https://doi.org/10.1007/978-981-33-6726-5_3"
+}
