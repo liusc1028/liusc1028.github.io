@@ -1,0 +1,1 @@
+@ARTICLE{9894087,  author={Wei, Tiankuo and Liu, Sicong and Du, Xiaojiang},  journal={IEEE Transactions on Mobile Computing},   title={Visible Light Integrated Positioning and Communication: A Multi-Task Federated Learning Framework},   year={2022},  volume={},  number={},  pages={1-18},  doi={10.1109/TMC.2022.3207164}}
