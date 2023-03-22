@@ -1,0 +1,10 @@
+Danping Su, Xianyao Wang, Sicong Liu, Wenbo Ding,
+Four-dimensional indoor visible light positioning: A deep-learning-based perspective,
+Journal of the Franklin Institute,
+Volume 360, Issue 6,
+2023,
+Pages 4071-4090,
+ISSN 0016-0032,
+https://doi.org/10.1016/j.jfranklin.2023.02.015.
+(https://www.sciencedirect.com/science/article/pii/S0016003223000923)
+Abstract: Accurate indoor positioning has been a difficult problem as the last meter dilemma of localization and navigation due to lack of satellite navigation signals and complex characteristics of multipath and dynamic indoor channels. Indoor visible light positioning (VLP) provides a new possible paradigm for accurate and low-complexity indoor positioning using widely deployed light-emitting diodes (LED). In this paper, the received signal strength of the photodetector at a mobile terminal is utilized to extract the geometric features in order to infer the accurate position coordinate via deep learning. Specifically, a hybrid model, i.e., a convolutional-recurrent neural network (CRNN), is devised to learn the nonlinear mapping from the received signal strength to the position coordinates in the complex indoor visible light propagation environment. A four-dimensional (4D) VLP architecture based on CRNN is formulated to deal with the non-line-of-sight propagation of indoor visible light and different receiver orientation. Simulation results show that the proposed CRNN-based 4D VLP (CR4D-VLP) method can achieve centimeter-level positioning accuracy, and significantly outperforms other state-of-the-art deep-learning-based schemes in both line-of-sight and non-line-of-sight scenarios with various spatial patterns of LEDs and different room sizes.
