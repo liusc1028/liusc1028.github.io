@@ -1,0 +1,10 @@
+@ARTICLE{10443316,
+  author={Tang, Xiao and Liu, Sicong and Du, Xiaojiang and Guizani, Mohsen},
+  journal={IEEE Transactions on Wireless Communications}, 
+  title={Sparsity-Aware Intelligent Massive Random Access Control for Massive MIMO Networks: A Reinforcement Learning Based Approach}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Access control;Next generation networking;Massive MIMO;Wireless communication;Vectors;Switches;Sparse matrices;Massive random access;active user detection;massive MIMO;compressed sensing;reinforcement learning},
+  doi={10.1109/TWC.2024.3365153}}

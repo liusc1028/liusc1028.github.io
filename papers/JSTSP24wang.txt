@@ -1,0 +1,10 @@
+@ARTICLE{10443444,
+  author={Liu, Sicong and Wang, Xianyao and Song, Jian and Han, Zhu},
+  journal={IEEE Journal of Selected Topics in Signal Processing}, 
+  title={Cooperative Robotics Visible Light Positioning: An Intelligent Compressed Sensing and GAN-Enabled Framework}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-12},
+  keywords={Robots;Location awareness;Light emitting diodes;Wireless communication;Wireless sensor networks;Robot sensing systems;Service robots;Robotics sensing;visible light positioning;multi-target localization;compressed sensing;cooperative localization},
+  doi={10.1109/JSTSP.2024.3368661}}
